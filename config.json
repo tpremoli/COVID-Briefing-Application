@@ -1,0 +1,20 @@
+{
+    "API-keys": {
+        "news": "(NEWSAPI API KEY GOES HERE)",
+        "weather": "(OPENWEATHERMAP API KEY GOES HERE)"
+    },
+    "persistent-data": {
+        "ID-value": 0,
+        "notifications": [],
+        "undismissed_alarms": [],
+        "upcoming_alarms": []
+    },
+    "settings": {
+        "covid19-region": "Exeter",
+        "daily-notification-hour": 14,
+        "daily-notification-min": 0,
+        "debug-mode": "False",
+        "news-country": "gb",
+        "weather-city": "Exeter,uk"
+    }
+}
