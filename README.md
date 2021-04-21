@@ -43,26 +43,21 @@ pip install requests
     <li>
         <p>Extract the contents of this zip file into an empty folder</p>
     </li>
-
     <li>
         <p>Input your API keys into appropriate locations in the config.json file (Remove parenthesis, do not modify other aspects of file) and save it</p>
-
         <pre><code>"API-keys": {
     "news": "(newsapi API Key)",
     "weather": "(openweathermap API Key)"
 },
-</code></pre></li>
-
+</code></pre></li> 
     <li>
         <p>Navigate to project folder (containing <code>COVID&#95;briefing&#95;application.py</code>) in system command line</p>
     </li>
-
     <li>
         <p>Run the program using </p>
     </li>
     <pre><code>py COVID&#95;briefing&#95;application.py
 </code></pre>
-
     <li>
         <p>Open host address in web browser and enjoy! (Address should be <code>http://127.0.0.1:5000/index</code>)</p>
     </li>
