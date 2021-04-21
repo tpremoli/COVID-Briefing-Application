@@ -4,9 +4,11 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<p>Welcome to the COVID-19 briefing application!</p>
+<p>Welcome to my COVID-19 briefing application!</p>
 
-<p>This application allows for the creation of timed alarms.<br> The user can decide to include news and weather briefings for the alarms,<br> and choose a date and time for them to ring. The application also includes<br> daily briefings on COVID-19 infection
+<p>This application was a project for my programming class, and was one of my first projects demonstrating my Python abilities,</p>
+
+<p>The application allows for the creation of timed alarms.<br> The user can decide to include news and weather briefings for the alarms,<br> and choose a date and time for them to ring. The application also includes<br> daily briefings on COVID-19 infection
     rates, and an ability to cancel alarms.</p>
 
 <p>The news is acquired from <a href="https://newsapi.org/">newsapi.org</a>, and the weather is fetched from
@@ -86,13 +88,9 @@ pip install requests
 
 <ol>
     <li>Ensure that pytest has been installed</li>
-
     <li>Navigate to folder containing COVID&#95;briefing&#95;application.py and test&#95;COVID&#95;briefing&#95;application.py</li>
-
     <li>To run tests, type the following line into the console
-
-        <pre><code>pytest
-</code></pre>
+    <pre><code>pytest</code></pre>
 
 </ol>
 <br>
