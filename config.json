@@ -4,7 +4,7 @@
         "weather": "(OPENWEATHERMAP API KEY GOES HERE)"
     },
     "persistent-data": {
-        "ID-value": 0,
+        "ID-value": 9,
         "notifications": [],
         "undismissed_alarms": [],
         "upcoming_alarms": []
